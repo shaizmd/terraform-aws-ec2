@@ -1,0 +1,5 @@
+aws_region       = "us-east-1"
+instance_name    = "terraform-ec2"
+instance_type    = "t2.micro"
+key_name         = "getmeachai-key"
+ssh_allowed_cidr = "49.207.134.17/32"
